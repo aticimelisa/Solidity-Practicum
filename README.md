@@ -8,7 +8,7 @@
 with Solidity OOP (object-oriented programming) language for implementing a counter smart contract.
 
 
-### HW2 - ether.sol 
+### HW2 - feeCollector.sol 
 with Solidity OOP (object-oriented programming) language for implementing a ether-store smart contract.
 
 
