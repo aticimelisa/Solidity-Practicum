@@ -16,5 +16,5 @@ with Solidity OOP (object-oriented programming) language for implementing a ethe
 with Solidity OOP (object-oriented programming) language for implementing a to-do list smart contract.
 
 
-### HW4 - crowdfund.sol 
+### HW4 - crowdFund.sol 
 with Solidity OOP (object-oriented programming) language for implementing a crowdfund smart contract.
